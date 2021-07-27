@@ -22,7 +22,7 @@ client = commands.Bot(command_prefix = '!')
 
 client.remove_command("help")
 
-Token = "ODY4NTQ3NTUyNjE2Nzc1NzMw.YPxP8Q.4iilH2ga8ZGVj1VOLiNaOpcVkxI"
+Token = ""
 sadegh_id = 671807746743730230
 line = '●▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬●'
 
